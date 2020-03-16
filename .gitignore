@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+fashionmnist/
+
 # Distribution / packaging
 .Python
 build/
